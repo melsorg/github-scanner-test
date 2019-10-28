@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/melsorg/github-scanner-test/issues"
   },
-  "homepage": "https://github.com/melsorg/github-scanner-test#readme"
+  "homepage": "https://github.com/melsorg/github-scanner-test#readme",
+  "dependencies": {
+    "async": "^0.2.10",
+    "npm2es": "~0.4.2",
+    "optimist": "~0.6.0",
+    "request": "~2.30.0",
+    "skateboard": "^1.5.1",
+    "split": "^0.3.0",
+    "weld": "^0.2.2"
+  }
 }
