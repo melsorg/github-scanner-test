@@ -1,0 +1,19 @@
+{
+  "name": "github-scanner-test",
+  "version": "1.2.2",
+  "description": "testing vuln scanner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melsorg/github-scanner-test.git"
+  },
+  "author": "melanie <melscoop@github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melsorg/github-scanner-test/issues"
+  },
+  "homepage": "https://github.com/melsorg/github-scanner-test#readme"
+}
