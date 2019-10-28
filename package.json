@@ -23,6 +23,13 @@
     "request": "~2.30.0",
     "skateboard": "^1.5.1",
     "split": "^0.3.0",
-    "weld": "^0.2.2"
+    "weld": "^0.2.2",
+    "bash": "4.4",
+    "cordova": "1",
+    "django": "1",
+    "libpng": "1",
+    "nuget": "1",
+    "openssl": "1.1.0",
+    "wordpress": "3.0"
   }
 }
