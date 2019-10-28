@@ -1,4 +1,8 @@
 {
+  "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": ""
+  },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure"
   },
